@@ -11,5 +11,7 @@
 		"w": 4,
 		"h": 1
 	},
-	"permissions": ["fetch"]
+	"permissions": [
+		"fetch"
+	]
 }
